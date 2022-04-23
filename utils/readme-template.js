@@ -7,15 +7,14 @@ const readmeContent = (readmeContentInfo) => {
 module.exports = readmeTemplateLayout => {
     const {
         name, 
-        languages, 
-        about, 
-        installation, 
-        usage, 
+        languages,
+        description, 
+        InstallationInstructions, 
+        usage,
+        contact, 
         license, 
-        questions, 
-        contribute, 
-        guidLines, 
-        testInstructions} = readmeTemplateLayout
+        FAQ, 
+        contribute} = readmeTemplateLayout
 
     return `
         
