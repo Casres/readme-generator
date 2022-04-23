@@ -3,8 +3,6 @@
 
 
 const fs = require('fs');
-const { resolve } = require('path');
-
 
 const writeFile = readmeContent => {
     return new Promise ((resolve, reject) => {
@@ -20,3 +18,5 @@ const writeFile = readmeContent => {
         });
     });
 };
+
+module.exports = {writeFile};

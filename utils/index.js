@@ -4,12 +4,12 @@
 
 
 
-// TODO: Include packages needed for this application
+// all packages needed for this application
 const inquirer = require('inquirer'); 
-const generateReadme = require('./generate-file');
-const {} = require ('./readme-template');
+const readmeTemplate = require ('./readme-template');
+const {writeFile} = require('./generate-file');
 
-// TODO: Create an array of questions for user input
+// an array of questions for user input
 const promptReadmeData = readmeData => {
     console.log(`
     =================
@@ -33,14 +33,30 @@ const promptReadmeData = readmeData => {
         },
 
         {
-            type: 'input', 
-            name: 'about',
-            message: 'tell the reader about this application',
-            validate: aboutInput => {
-                if(aboutInput) {
+            type: 'input',
+            name: 'license',
+            message: 'Project License *',
+            validate: licenseInput => {
+                if(licenseInput) {
                     return true;
                 } else {
-                    console.log('Please put information about this application');
+                    console.log('Please put the license of your project');
+                    return false;
+                }
+            }
+        },
+
+        // table of contents 
+
+        {
+            type: 'input', 
+            name: 'description',
+            message: 'tell the reader about this application',
+            validate: descriptionInput => {
+                if(descriptionInput) {
+                    return true;
+                } else {
+                    console.log('Please give a brief description about this application');
                     return false;
                 }
             }
@@ -65,6 +81,62 @@ const promptReadmeData = readmeData => {
                     return false;
                 }
             }
+        },
+
+        {
+            type: 'input',
+            name: 'InstallationInstructions',
+            message: 'How do I install this application? *',
+            validate: InstallationInstructionsInput => {
+                if(InstallationInstructionsInput) {
+                    return true;
+                } else {
+                    console.log("what is the use case for this application?");
+                    return false;
+                }
+            }
+        }, 
+
+        {
+            type: 'input',
+            name: 'contact',
+            message: 'How can the user reach you? *',
+            validate: contactInput => {
+                if(contactInput) {
+                    return true;
+                } else {
+                    console.log("Please fill out the contact information.");
+                    return false;
+                }
+            }
+        }, 
+
+        {
+            type: 'input',
+            name: 'FAQ',
+            message: 'What what are FAQ of this application? *',
+            validate: FAQInput => {
+                if(FAQInput) {
+                    return true;
+                } else {
+                    console.log("Please fill out the FAQ");
+                    return false;
+                }
+            }
+        },
+
+        {
+            type: 'input',
+            name: 'contribute',
+            message: 'How can users contribute to this application? *',
+            validate: contributeInput => {
+                if(contributeInput) {
+                    return true;
+                } else {
+                    console.log("Please fill out how the user can contribute to this application");
+                    return false;
+                }
+            }
         }
 
     ]);
@@ -72,16 +144,13 @@ const promptReadmeData = readmeData => {
 
 promptReadmeData()
 .then(readmeData => {
-    return generateReadme(readmeData)
+    return readmeTemplate(readmeData)
+})
+.then(generateReadme => {
+    console.log(generateReadme);
+    return writeFile(generateReadme);
+})
+.catch(err => {
+    console.log(err);
 });
 
-
-
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {};
-
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init();
