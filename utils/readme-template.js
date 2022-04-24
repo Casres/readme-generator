@@ -17,35 +17,40 @@ module.exports = readmeTemplateLayout => {
         contribute} = readmeTemplateLayout
 
     return `
-        
-    ## License
-    ${readmeContent(license)}
-    
-    ## Table of contents
-    - [Heading](#heading)
-    - [Heading](#heading-1)
-    - [Heading](#heading-2)
-    
-    ## Description
-    # ${readmeContent(description)}
-    
-    ## Languages
-    # ${readmeContent(languages)}
-    
-    ## Usage
-    # ${readmeContent(usage)}
-    
-    ## Installation Instructions
-    ${readmeContent(InstallationInstructions)}
-    
-    ## Contact Information
-    # ${readmeContent(contact)}
-            
-    ## FAQ
-    # ${readmeContent(FAQ)}
-    
-    ## How to contribute
-    # ${readmeContent(contribute)}
+# **${readmeContent(name)}**
+
+## **License**
+${readmeContent(license)}
+
+## **Table of contents**
+- [Description](#Description)
+- [Languages](#Languages)
+- [Usage](#Usage)
+- [Installation Instructions](#Installation Instructions)
+- [Contact Information](#Contact Information)
+- [FAQ](#FAQ)
+- [How to contribute](#How to contribute)
+
+## **Description**
+${readmeContent(description)}
+
+## **Languages**
+${readmeContent(languages)}
+
+## **Usage**
+${readmeContent(usage)}
+
+## **Installation Instructions**
+${readmeContent(InstallationInstructions)}
+
+## **Contact Information**
+${(readmeContent(contact))}
+
+## **FAQ**
+${(readmeContent(FAQ))}
+
+## **How to contribute**
+${(readmeContent(contribute))}
     `;
 }
 
