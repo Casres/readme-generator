@@ -18,20 +18,20 @@ module.exports = readmeTemplateLayout => {
 
     return `
         
-        # **${readmeContent(name)}**
+        # **${readmeContent(name)}
 
-        ## **License**
+        ## **License
         ${readmeContent(license)}
 
-        ## **Table of contents**
+        ## **Table of contents
         - [Heading](#heading)
         - [Heading](#heading-1)
         - [Heading](#heading-2)
 
-        ## **Description**
+        ## **Description
         # ${readmeContent(description)}
 
-        ## **Languages**
+        ## **Languages
         # ${readmeContent(languages)}
 
         ## **Usage**

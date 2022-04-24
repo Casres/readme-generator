@@ -1,23 +1,23 @@
 
         
-        # **ReadMe Generator**
+        # **Test run
 
-        ## **License**
+        ## **License
         MIT
 
-        ## **Table of contents**
+        ## **Table of contents
         - [Heading](#heading)
         - [Heading](#heading-1)
         - [Heading](#heading-2)
 
-        ## **Description**
-        # This is a README Generator
+        ## **Description
+        # This is a test run
 
-        ## **Languages**
-        # JavaScript,Node,Other
+        ## **Languages
+        # JavaScript,HTML,CSS,ES6,jQuery,Bootstrap,Node,Next.js,React.js,Vue.js,Angular,Svelte,Laravel,Other
 
         ## **Usage**
-        # To generate a README faster so that the user can focus more on their website development
+        # This is a test run to see if this works now
 
         ## **Installation Instructions**
         npm
@@ -26,8 +26,8 @@
         # email
         
         ## **FAQ**
-        # Go to the issues tab
+        # questions galore
 
         ## **How to contribute**
-        # Issues
+        # issues
     
