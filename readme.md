@@ -1,33 +1,33 @@
 
         
-        # **Test run
+        # ** Test run
 
-        ## **License
+        ## ** License
         MIT
 
-        ## **Table of contents
+        ## ** Table of contents
         - [Heading](#heading)
         - [Heading](#heading-1)
         - [Heading](#heading-2)
 
-        ## **Description
+        ## ** Description
         # This is a test run
 
-        ## **Languages
+        ## ** Languages
         # JavaScript,HTML,CSS,ES6,jQuery,Bootstrap,Node,Next.js,React.js,Vue.js,Angular,Svelte,Laravel,Other
 
-        ## **Usage**
+        ## ** Usage
         # This is a test run to see if this works now
 
-        ## **Installation Instructions**
+        ## ** Installation Instructions
         npm
 
-        ## **Contact Information**
+        ## ** Contact Information
         # email
         
-        ## **FAQ**
+        ## ** FAQ
         # questions galore
 
-        ## **How to contribute**
+        ## ** How to contribute
         # issues
     
