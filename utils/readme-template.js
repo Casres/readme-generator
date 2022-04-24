@@ -26,10 +26,10 @@ ${readmeContent(license)}
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [Installation Instructions](#Installation Instructions)
-- [Contact Information](#Contact Information)
+- [Installation Instructions](#InstallationInstructions)
+- [Contact Information](#ContactInformation)
 - [FAQ](#FAQ)
-- [How to contribute](#How to contribute)
+- [How to contribute](#Howtocontribute)
 
 ## **Description**
 ${readmeContent(description)}
