@@ -33,9 +33,10 @@ const promptReadmeData = readmeData => {
         },
 
         {
-            type: 'input',
+            type: 'list',
             name: 'license',
-            message: 'Project License *',
+            message: 'Select a license that was used *',
+            choices: ['MIT', 'ISC', 'Apache 2.0', 'None'],
             validate: licenseInput => {
                 if(licenseInput) {
                     return true;

@@ -1,8 +1,7 @@
 
-# **Test Run **
+# **Test **
 
-## **License**
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## **Table of contents**
 - [Description](#Description)
@@ -14,23 +13,27 @@ MIT
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-This is a test
+this is a flipping test
 
 ## **Languages**
-JavaScript,HTML,CSS,ES6,jQuery,Bootstrap,Node,Next.js,React.js,Vue.js,Angular,Svelte,Laravel,Other
+- JavaScript,Node,Other
+- 
+
+## **License**
+This project is licensed under: MIT
 
 ## **Usage**
-to make sure everything is running correctly
+To run shit
 
 ## **Installation Instructions**
-npm
+npm my guy 
 
 ## **Contact Information**
-email
+email dude
 
 ## **FAQ**
 issues
 
 ## **How to contribute**
-blank 
+issues dude
     
