@@ -67,7 +67,7 @@ const promptReadmeData = readmeData => {
             type: 'checkbox',
             name: 'languages',
             message: 'what was the application built with?',
-            choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'Node', 'Next.js', 'React.js', 'Vue.js', 'Angular', 'Svelte', 'Laravel', 'Other']
+            choices: [' JavaScript', ' HTML', ' CSS', ' ES6', ' jQuery', ' Bootstrap', ' Node', ' Next.js', ' React.js', ' Vue.js', ' Angular', ' Svelte', ' Laravel', ' Other']
         }, 
 
         {
