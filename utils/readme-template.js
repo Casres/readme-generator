@@ -50,8 +50,8 @@ ${renderLicenseBadge(license)}
 ${readmeContent(description)}
 
 ## **Languages**
-- ${readmeContent(languages)}
-- 
+- ${readmeContent(languages)} 
+
 
 ## **License**
 This project is licensed under: ${readmeContent(license)}

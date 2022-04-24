@@ -87,7 +87,7 @@ const promptReadmeData = readmeData => {
         {
             type: 'input',
             name: 'InstallationInstructions',
-            message: 'How do I install this application? *',
+            message: 'How do I install this application? (Write the command to install) *',
             validate: InstallationInstructionsInput => {
                 if(InstallationInstructionsInput) {
                     return true;

@@ -1,5 +1,5 @@
 
-# **Test **
+# **ReadMe Generator**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,27 +13,27 @@
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-this is a flipping test
+This is a ReadMe generator
 
 ## **Languages**
-- JavaScript,Node,Other
-- 
+- JavaScript,HTML,CSS,ES6,jQuery,Bootstrap,Node,Next.js,React.js,Vue.js,Angular,Svelte,Laravel,Other 
+
 
 ## **License**
 This project is licensed under: MIT
 
 ## **Usage**
-To run shit
+To generate a ReadMe 
 
 ## **Installation Instructions**
-npm my guy 
+npm
 
 ## **Contact Information**
-email dude
+email
 
 ## **FAQ**
-issues
+go to issues to find out
 
 ## **How to contribute**
-issues dude
+issues
     
