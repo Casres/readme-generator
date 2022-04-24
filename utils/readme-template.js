@@ -24,7 +24,9 @@ module.exports = readmeTemplateLayout => {
         ${readmeContent(license)}
 
         ## **Table of contents**
-        #
+        - [Heading](#heading)
+        - [Heading](#heading-1)
+        - [Heading](#heading-2)
 
         ## **Description**
         # ${readmeContent(description)}
