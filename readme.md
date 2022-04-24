@@ -1,9 +1,9 @@
 
         
-        # **sdgasr**
+        # **ReadMe Generator**
 
         ## **License**
-        gasdf
+        MIT
 
         ## **Table of contents**
         - [Heading](#heading)
@@ -11,23 +11,23 @@
         - [Heading](#heading-2)
 
         ## **Description**
-        # gasdf
+        # This is a README Generator
 
         ## **Languages**
-        # JavaScript,HTML,CSS,ES6,jQuery,Bootstrap,Node,Next.js,React.js,Vue.js,Angular,Svelte,Laravel,Other
+        # JavaScript,Node,Other
 
         ## **Usage**
-        # gadf
+        # To generate a README faster so that the user can focus more on their website development
 
         ## **Installation Instructions**
-        g
+        npm
 
         ## **Contact Information**
-        # afg
+        # email
         
         ## **FAQ**
-        # afg
+        # Go to the issues tab
 
         ## **How to contribute**
-        # a
+        # Issues
     
