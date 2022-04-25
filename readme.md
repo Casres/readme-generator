@@ -1,5 +1,5 @@
 
-# **ReadMe Generator **
+# **Testing the ReadMe Generator**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,35 +13,37 @@
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-This is an open source Readme Generator
+This is a test run 
 
 ## **Languages**
--  JavaScript, Node 
+-  JavaScript, HTML, CSS, ES6, jQuery, Bootstrap, Node, Next.js, React.js, Vue.js, Angular, Svelte, Laravel, Other 
 
 
 ## **License**
 This project is licensed under: MIT
 
 ## **Usage**
-This ReadMe Generator is to allow users to focus more on their projects and work and less time on making a proper ReadMe file.
+This is a test run to see if the user name input is working correctly
 
 ## **Installation Instructions**
 
 How to install: 
-``` npm init ``` , ``` npm install ```
+``` npm ``` 
 
 ## **Contact Information**
 
 #### GitHub profile
 GitHub Profile:
-Casres
+[Casres](www.github.com/Casres)
+Testing here
 
 #### Reach Out
-email: christian@casillas.tech
+christian@casillas.tech
 
 ## **FAQ**
-Go to the issues if you have any questions 
+issues
 
 ## **How to contribute**
-If you would like to contribute, submit an issue with your contribution code!
+Submit issues with your code to the repository and I'll be sure to check them out 
+issues
     

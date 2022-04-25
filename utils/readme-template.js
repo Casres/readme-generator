@@ -69,7 +69,8 @@ ${readmeContent(InstallationInstructions)}
 
 #### GitHub profile
 GitHub Profile:
-${readmeContent(username)}
+[${readmeContent(username)}](www.github.com/${readmeContent(username)})
+Testing here
 
 #### Reach Out
 ${(readmeContent(contact))}
@@ -78,6 +79,7 @@ ${(readmeContent(contact))}
 ${(readmeContent(FAQ))}
 
 ## **How to contribute**
+Submit issues with your code to the repository and I'll be sure to check them out 
 ${(readmeContent(contribute))}
     `;
 }
