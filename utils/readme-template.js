@@ -45,7 +45,7 @@ ${renderLicenseBadge(license)}
 - [TEST SECTION](#Installation)
 - [Contact Information](#Contact)
 - [FAQ](#FAQ)
-- [How to contribute](#Howtocontribute)
+- [How to contribute](#How-to-contribute)
 
 ## **Description**
 ${readmeContent(description)}
@@ -60,12 +60,12 @@ This project is licensed under: ${readmeContent(license)}
 ## **Usage**
 ${readmeContent(usage)}
 
-## **Installation Instructions**
+## **Installation**
 
 How to install: 
 ${readmeContent(Installation)}
 
-## **Contact Information**
+## **Contact**
 
 #### GitHub profile
 GitHub Profile:
@@ -77,7 +77,7 @@ ${(readmeContent(contact))}
 ## **FAQ**
 ${(readmeContent(FAQ))}
 
-## **How to contribute**
+## **How-to-contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
 ${(readmeContent(contribute))}
     `;
