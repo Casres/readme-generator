@@ -28,6 +28,7 @@ module.exports = readmeTemplateLayout => {
         InstallationInstructions, 
         usage,
         contact, 
+        username,
         license, 
         FAQ, 
         contribute} = readmeTemplateLayout
@@ -60,9 +61,17 @@ This project is licensed under: ${readmeContent(license)}
 ${readmeContent(usage)}
 
 ## **Installation Instructions**
+
+How to install: 
 ${readmeContent(InstallationInstructions)}
 
 ## **Contact Information**
+
+#### GitHub profile
+GitHub Profile:
+${readmeContent(username)}
+
+#### Reach Out
 ${(readmeContent(contact))}
 
 ## **FAQ**

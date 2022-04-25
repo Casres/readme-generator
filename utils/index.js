@@ -87,7 +87,7 @@ const promptReadmeData = readmeData => {
         {
             type: 'input',
             name: 'InstallationInstructions',
-            message: 'How do I install this application? (Write the command to install) *',
+            message: 'How do I install this application? (Write the command to install & use back ticks (``` command here ```)) *',
             validate: InstallationInstructionsInput => {
                 if(InstallationInstructionsInput) {
                     return true;
@@ -107,6 +107,20 @@ const promptReadmeData = readmeData => {
                     return true;
                 } else {
                     console.log("Please fill out the contact information.");
+                    return false;
+                }
+            }
+        }, 
+
+        {
+            type: 'input',
+            name: 'username',
+            message: 'WHat is your GitHub user name? *',
+            validate: usernameInput => {
+                if(usernameInput) {
+                    return true;
+                } else {
+                    console.log("Please fill out your GitHub user name.");
                     return false;
                 }
             }
