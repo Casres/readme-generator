@@ -129,7 +129,7 @@ const promptReadmeData = readmeData => {
         {
             type: 'input',
             name: 'FAQ',
-            message: 'What what are FAQ of this application? *',
+            message: 'Where can the user find the FAQs of this application? *',
             validate: FAQInput => {
                 if(FAQInput) {
                     return true;
