@@ -1,5 +1,5 @@
 
-# **Test ReadMe**
+# **ReadMe Generator**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,42 +7,41 @@
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [TEST SECTION](#Installation)
+- [Installation](#Installation)
 - [Contact Information](#Contact)
 - [FAQ](#FAQ)
 - [How to contribute](#How-to-contribute)
 
 ## **Description**
-This is testing the links
+This is an open source ReadMe generator
 
 ## **Languages**
--  JavaScript, HTML, CSS, ES6, jQuery, Bootstrap, Node, Next.js, React.js, Vue.js, Angular, Svelte, Laravel, Other 
+-  JavaScript, Node 
 
 
 ## **License**
 This project is licensed under: MIT
 
 ## **Usage**
-this is testing to see if the table links work
+This helps developers be able to focus more time and effort on their work and less on their ReadMe without compromising quality.
 
 ## **Installation**
 
 How to install: 
-test work
+```npm init``` , ```npm install``` , ```node index.js```
 
 ## **Contact**
 
 #### GitHub profile
-GitHub Profile:
-[github](https://github.com/github)
+[Casres](https://github.com/Casres)
 
 #### Reach Out
-email
+christian@casillas.tech
 
 ## **FAQ**
-test
+In the issues tab you can Find all the FAQs
 
 ## **How-to-contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
-test
+Fork this repository and submit your work on a branch of your own 
     

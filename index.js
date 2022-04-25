@@ -115,7 +115,7 @@ const promptReadmeData = readmeData => {
         {
             type: 'input',
             name: 'username',
-            message: 'WHat is your GitHub user name? *',
+            message: 'What is your GitHub user name? *',
             validate: usernameInput => {
                 if(usernameInput) {
                     return true;

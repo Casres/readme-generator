@@ -42,7 +42,7 @@ ${renderLicenseBadge(license)}
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [TEST SECTION](#Installation)
+- [Installation](#Installation)
 - [Contact Information](#Contact)
 - [FAQ](#FAQ)
 - [How to contribute](#How-to-contribute)
@@ -68,7 +68,6 @@ ${readmeContent(Installation)}
 ## **Contact**
 
 #### GitHub profile
-GitHub Profile:
 [${readmeContent(username)}](https://github.com/${readmeContent(username)})
 
 #### Reach Out
