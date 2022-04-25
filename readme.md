@@ -7,8 +7,8 @@
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [Installation Instructions](#InstallationInstructions)
-- [Contact Information](#ContactInformation)
+- [Installation Instructions](#Installation)
+- [Contact Information](#Contact)
 - [FAQ](#FAQ)
 - [How to contribute](#Howtocontribute)
 
@@ -23,26 +23,26 @@ This is an open source ReadMe generator
 This project is licensed under: ISC
 
 ## **Usage**
-To help devs focus more on their project and not have to worry too much about the read me
+To hel devs focus more on their projects and not have to worry too much about the read me.
 
 ## **Installation Instructions**
 
 How to install: 
-``` npm init ``` , ``` npm inquirer``` , ``` node index.js ```
+``` npm init ``` , ``` npm inquirer ``` , ```node index,js```
 
 ## **Contact Information**
 
 #### GitHub profile
 GitHub Profile:
-[Casres](https://github.com/Casres)
+[casres](https://github.com/casres)
 
 #### Reach Out
-Email 
+christian@casillas.tech
 
 ## **FAQ**
-got to the issues tab
+Go to the issues tab to see all FAQs
 
 ## **How to contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
-fork this project and add features
+Submit issues with your code to the repository and I'll be sure to check them out fork this project and add features
     

@@ -42,8 +42,8 @@ ${renderLicenseBadge(license)}
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [Installation Instructions](#InstallationInstructions)
-- [Contact Information](#ContactInformation)
+- [Installation Instructions](#Installation)
+- [Contact Information](#Contact)
 - [FAQ](#FAQ)
 - [How to contribute](#Howtocontribute)
 
