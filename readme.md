@@ -1,5 +1,5 @@
 
-# **Test run for the ages**
+# **Testing ReadMe file**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,13 +7,13 @@
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [Installation](#Installation)
+- [TEST SECTION](#Installation)
 - [Contact Information](#Contact)
 - [FAQ](#FAQ)
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-pink pop
+This testing the ReadMe
 
 ## **Languages**
 -  JavaScript, HTML, CSS, ES6, jQuery, Bootstrap, Node, Next.js, React.js, Vue.js, Angular, Svelte, Laravel, Other 
@@ -23,7 +23,7 @@ pink pop
 This project is licensed under: MIT
 
 ## **Usage**
-to test to see if the links work
+To test and see if the links are working
 
 ## **Installation Instructions**
 
@@ -34,15 +34,15 @@ undefined
 
 #### GitHub profile
 GitHub Profile:
-[things](https://github.com/things)
+[github](https://github.com/github)
 
 #### Reach Out
-emails
+email
 
 ## **FAQ**
 issues
 
 ## **How to contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
-plop
+issues
     
