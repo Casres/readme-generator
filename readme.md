@@ -1,48 +1,48 @@
 
-# **ReadMe Generator**
+# **t**
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## **Table of contents**
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [Installation Instructions](#Installation)
+- [Installation](#Installation)
 - [Contact Information](#Contact)
 - [FAQ](#FAQ)
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-This is an open source ReadMe generator
+t
 
 ## **Languages**
--  JavaScript, Node 
+-  
 
 
 ## **License**
-This project is licensed under: ISC
+This project is licensed under: MIT
 
 ## **Usage**
-To hel devs focus more on their projects and not have to worry too much about the read me.
+t
 
 ## **Installation Instructions**
 
 How to install: 
-``` npm init ``` , ``` npm inquirer ``` , ```node index,js```
+t
 
 ## **Contact Information**
 
 #### GitHub profile
 GitHub Profile:
-[casres](https://github.com/casres)
+[t](https://github.com/t)
 
 #### Reach Out
-christian@casillas.tech
+t
 
 ## **FAQ**
-Go to the issues tab to see all FAQs
+t
 
 ## **How to contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
-Submit issues with your code to the repository and I'll be sure to check them out fork this project and add features
+t
     

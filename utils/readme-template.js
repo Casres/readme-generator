@@ -42,7 +42,7 @@ ${renderLicenseBadge(license)}
 - [Description](#Description)
 - [Languages](#Languages)
 - [Usage](#Usage)
-- [Installation Instructions](#Installation)
+- [Installation](#Installation)
 - [Contact Information](#Contact)
 - [FAQ](#FAQ)
 - [How to contribute](#Howtocontribute)
