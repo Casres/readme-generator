@@ -25,7 +25,7 @@ module.exports = readmeTemplateLayout => {
         name, 
         languages,
         description, 
-        InstallationInstructions, 
+        Installation, 
         usage,
         contact, 
         username,
@@ -63,7 +63,7 @@ ${readmeContent(usage)}
 ## **Installation Instructions**
 
 How to install: 
-${readmeContent(InstallationInstructions)}
+${readmeContent(Installation)}
 
 ## **Contact Information**
 
