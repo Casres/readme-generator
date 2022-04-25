@@ -70,7 +70,6 @@ ${readmeContent(InstallationInstructions)}
 #### GitHub profile
 GitHub Profile:
 [${readmeContent(username)}](https://github.com/${readmeContent(username)})
-Testing here
 
 #### Reach Out
 ${(readmeContent(contact))}

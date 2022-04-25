@@ -1,5 +1,5 @@
 
-# **Testing the ReadMe Generator**
+# **Test run for read me**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,7 +13,7 @@
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-This is a test run 
+this is testing the read me file
 
 ## **Languages**
 -  JavaScript, HTML, CSS, ES6, jQuery, Bootstrap, Node, Next.js, React.js, Vue.js, Angular, Svelte, Laravel, Other 
@@ -23,22 +23,21 @@ This is a test run
 This project is licensed under: MIT
 
 ## **Usage**
-This is a test run to see if the user name input is working correctly
+to test and see if the username input is correct
 
 ## **Installation Instructions**
 
 How to install: 
-``` npm ``` 
+``` npm install ```
 
 ## **Contact Information**
 
 #### GitHub profile
 GitHub Profile:
-[Casres](www.github.com/Casres)
-Testing here
+[casres](https://github.com/casres)
 
 #### Reach Out
-christian@casillas.tech
+email
 
 ## **FAQ**
 issues
