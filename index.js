@@ -86,10 +86,10 @@ const promptReadmeData = readmeData => {
 
         {
             type: 'input',
-            name: 'InstallationInstructions',
+            name: 'Installation',
             message: 'How do I install this application? (Write the command to install & use back ticks (``` command here ```)) *',
-            validate: InstallationInstructionsInput => {
-                if(InstallationInstructionsInput) {
+            validate: InstallationInput => {
+                if(InstallationInput) {
                     return true;
                 } else {
                     console.log("what is the use case for this application?");

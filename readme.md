@@ -28,7 +28,7 @@ t
 ## **Installation Instructions**
 
 How to install: 
-t
+undefined
 
 ## **Contact Information**
 
