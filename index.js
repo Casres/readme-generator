@@ -6,8 +6,8 @@
 
 // all packages needed for this application
 const inquirer = require('inquirer'); 
-const readmeTemplate = require ('./readme-template');
-const {writeFile} = require('./generate-file');
+const readmeTemplate = require ('./utils/readme-template');
+const {writeFile} = require('./utils/generate-file');
 
 // an array of questions for user input
 const promptReadmeData = readmeData => {
