@@ -23,6 +23,7 @@ This is an open source ReadMe file generator
 This project is licensed under: ISC
 
 ## **Usage**
+!
 This CLI app is meant to help users focus more time and effort on their work / projects and not have to worry about making a ReadMe file. 
 
 ## **Installation Instructions**

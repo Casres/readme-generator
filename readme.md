@@ -1,5 +1,5 @@
 
-# **ReadMe Generator **
+# **ReadMe Generator**
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
@@ -13,7 +13,7 @@
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-This is an open source ReadMe file generator
+This is an open source ReadMe generator
 
 ## **Languages**
 -  JavaScript, Node 
@@ -23,26 +23,26 @@ This is an open source ReadMe file generator
 This project is licensed under: ISC
 
 ## **Usage**
-This CLI app is meant to help users focus more time and effort on their work / projects and not have to worry about making a ReadMe file. 
+To help devs focus more on their project and not have to worry too much about the read me
 
 ## **Installation Instructions**
 
 How to install: 
-```npm init``` , ```npm i requirer``` , ```node index.js``` . 
+``` npm init ``` , ``` npm inquirer``` , ``` node index.js ```
 
 ## **Contact Information**
 
 #### GitHub profile
 GitHub Profile:
-[casres](https://github.com/casres)
+[Casres](https://github.com/Casres)
 
 #### Reach Out
-christian@casillas.tech
+Email 
 
 ## **FAQ**
-Go to the issues tab to see all FAQs.
+got to the issues tab
 
 ## **How to contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
-In the issues tab, leave an issue with a feature you made with your code and I'll be sure to check it out, thank you in advanced!
+fork this project and add features
     
