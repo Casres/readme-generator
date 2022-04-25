@@ -1,5 +1,5 @@
 
-# **t**
+# **Test run for the ages**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,17 +13,17 @@
 - [How to contribute](#Howtocontribute)
 
 ## **Description**
-t
+pink pop
 
 ## **Languages**
--  
+-  JavaScript, HTML, CSS, ES6, jQuery, Bootstrap, Node, Next.js, React.js, Vue.js, Angular, Svelte, Laravel, Other 
 
 
 ## **License**
 This project is licensed under: MIT
 
 ## **Usage**
-t
+to test to see if the links work
 
 ## **Installation Instructions**
 
@@ -34,15 +34,15 @@ undefined
 
 #### GitHub profile
 GitHub Profile:
-[t](https://github.com/t)
+[things](https://github.com/things)
 
 #### Reach Out
-t
+emails
 
 ## **FAQ**
-t
+issues
 
 ## **How to contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
-t
+plop
     
