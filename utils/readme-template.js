@@ -69,7 +69,7 @@ ${readmeContent(InstallationInstructions)}
 
 #### GitHub profile
 GitHub Profile:
-[${readmeContent(username)}](www.github.com/${readmeContent(username)})
+[${readmeContent(username)}](https://github.com/${readmeContent(username)})
 Testing here
 
 #### Reach Out
