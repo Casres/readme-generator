@@ -1,5 +1,5 @@
 
-# **ReadMe Generator**
+# **Note Taker**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,35 +13,35 @@
 - [How to contribute](#How-to-contribute)
 
 ## **Description**
-This is an open source ReadMe generator
+An application that demonstrates server functionality of POST, GET and DELETE that connects to the client side
 
 ## **Languages**
--  JavaScript, Node 
+-  JavaScript, HTML, CSS, jQuery, Bootstrap, Node, Other 
 
 
 ## **License**
 This project is licensed under: MIT
 
 ## **Usage**
-This helps developers be able to focus more time and effort on their work and less on their ReadMe without compromising quality.
+So that the user can have notes for specific area of their life 
 
 ## **Installation**
 
 How to install: 
-```npm init``` , ```npm install``` , ```node index.js```
+ ```git clone``` once you copy the code, then do ```npm i``` when you clone this repo and open it in your terminal
 
 ## **Contact**
 
 #### GitHub profile
-[Casres](https://github.com/Casres)
+[casres](https://github.com/casres)
 
 #### Reach Out
 christian@casillas.tech
 
 ## **FAQ**
-In the issues tab you can Find all the FAQs
+The Issues tab
 
 ## **How-to-contribute**
 Submit issues with your code to the repository and I'll be sure to check them out 
-Fork this repository and submit your work on a branch of your own 
+Fork this repo and send in a push request
     
